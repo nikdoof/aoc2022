@@ -1,4 +1,4 @@
-# Day 2
+# Day 2 - Rock Paper Scissors
 # https://adventofcode.com/2022/day/2
 
 with open('input.txt', 'r') as fobj:
